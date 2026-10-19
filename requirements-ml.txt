@@ -1,0 +1,6 @@
+# Optional, local model/semantic evaluation dependencies. No paid API is used.
+transformers>=4.44,<5
+torch>=2.4
+sentencepiece>=0.2
+sentence-transformers>=3.0,<6
+accelerate>=0.34
